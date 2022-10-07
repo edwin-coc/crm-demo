@@ -1,0 +1,11 @@
+//crear funcion delete en los leads
+
+//crear la vista para las fotos
+
+//añadir agente al Lead
+
+
+//ishim hub
+donde dice abroadcare poner nuestro logo
+servicios:
+base de datos / canal
